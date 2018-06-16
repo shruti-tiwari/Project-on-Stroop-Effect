@@ -15,4 +15,20 @@ To see the final code and analysis use this link:
 
 https://github.com/shruti12912/Project-on-Stroop-Effect/blob/master/stroop_report.ipynb
 
+## Conclusion
+
+In this t-test we made an assumption that if a point estimate lies with in critical range of t i.e. with probibility less than 0.05, it is statistically significant. We reject the null hypothesis with a confidence level of 99.9%. In other words, with this statistical test it can be concluded that any participant would take more time to recognize the color of an incongruent word than that of congruent word. This result is in agreement with my expectations.
+
+I think that the reason for this effect lies how our brain works. For most of the people the ability to read a world is faster than the ability to recognise color. On literature survey, I found following theory explananing for Stroop effect[1]:
+
+The words themselves have a strong influence over your ability to say the color. The interference between the different information (what the words say and the color of the words) your brain receives causes a problem. There are two theories that may explain the Stroop effect:
+
+Speed of Processing Theory: the interference occurs because words are read faster than colors are named. Selective Attention Theory: the interference occurs because naming colors requires more attention than reading words. I think that this puzzle would be easier for a very young child than for older children or adults. Try this out on some small kids who know their colors, but cannot yet read! I would imagine that the children would not get confused by this puzzle because the words would not have any meaning to them.
+
+To find the similar experiment we have to think about two or more of human mental skills conflicting with each other. One such example could be-
+
+The participants are shown the name of the shape inside a shape and they have to say the shape. In first group, the name of the shape matches with the shape it is enclosed in and in other group it doesn't.
+
+
+
 
